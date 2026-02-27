@@ -1415,7 +1415,7 @@
 - type: entity
   id: EmpPulse
   name: EMP impulse
-  parent: EnergyTrace
+  parent: LaserTrace
   components:
   - type: HitscanEmpEffect
     emp:
